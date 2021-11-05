@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\bin\Debug\EnBuyukSayiForm.exe.config
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\bin\Debug\EnBuyukSayiForm.exe
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\bin\Debug\EnBuyukSayiForm.pdb
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.Form1.resources
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.Properties.Resources.resources
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.exe
+C:\Users\Asus\Desktop\Kordsa\EnBuyukSayiForm\EnBuyukSayiForm\obj\Debug\EnBuyukSayiForm.pdb
